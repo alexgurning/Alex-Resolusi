@@ -1,5 +1,6 @@
 Rencana Belajar Saya :
 -. Belajar Javascript
--. Belajar React JS
+   *. ES6
+   *. Belajar Javascript Framework
 -. Belajar Konsep OOP PHP
 -. Belajar Framework Laravel

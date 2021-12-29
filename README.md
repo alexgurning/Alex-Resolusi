@@ -1,0 +1,2 @@
+# Alex-Resolusi
+Resolusi Diri

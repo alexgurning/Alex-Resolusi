@@ -1,0 +1,5 @@
+Alex Resolusi :
+-. Bisa membuat website landing page
+-. bisa memahami konsep PHP
+-. bisa memahami konsep Framework Laravel
+-. bisa memahami konsep Javascript

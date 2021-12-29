@@ -4,11 +4,12 @@ Rencana Belajar Saya :
    *. Belajar Javascript Framework     
      ^. React     
      ^. Vue
+     ^. Angular
 -. Belajar Konsep OOP PHP
 -. Belajar Tailwind CSS
 -. Belajar Framework Laravel
 -. Belajar Framework Bootstrap
 -. Belajar Data Science
 -. Belajar Phyton
-
+-. Belajar Tentang AWS Cloud
 

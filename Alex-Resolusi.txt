@@ -3,3 +3,5 @@ Alex Resolusi :
 -. bisa memahami konsep PHP
 -. bisa memahami konsep Framework Laravel
 -. bisa memahami konsep Javascript
+-. belajar bahasa programming phyton
+-. belajar data science

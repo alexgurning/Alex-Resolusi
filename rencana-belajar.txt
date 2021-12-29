@@ -4,3 +4,4 @@ Rencana Belajar Saya :
    *. Belajar Javascript Framework
 -. Belajar Konsep OOP PHP
 -. Belajar Framework Laravel
+-. Belajar Data Science
